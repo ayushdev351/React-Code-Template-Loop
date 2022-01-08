@@ -1,0 +1,16 @@
+/* This is the main Global css file which we import in our every COMPONENT
+You can also make seperate css files for each of your COMPONENT as we have
+created here.*/
+
+/* All of the Styles which you want to be global i.e To be applied to all elements
+are written here.*/
+
+* {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+/* All of the syntax here works exactly same as in Plane CSS*/

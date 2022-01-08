@@ -1,0 +1,21 @@
+/* I  will import this CSS file only in the Header.js file because I have writen 
+Styles for Header component only
+
+In This way both our JSX code and CSS code are kept seperate for each Component
+And this is the Main Functionality of React.*/
+
+nav {
+  background-color: grey;
+  padding: 5px 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+li {
+  display: inline-block;
+  margin: 5px 20px 5px 20px;
+  background-color: pink;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
