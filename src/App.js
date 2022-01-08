@@ -4,8 +4,8 @@
 //We have imported the GLOBAL CSS file here.
 import "./styles.css";
 
-//Now we are importing each of our Component. Serially as we want them to be shown
-//on the screen.
+//Below we are importing each of our Components from the Components Folder.
+//We import them in the order in which we want them to be shown on the screen.
 
 import Header from "./Components/Header.js"; //This is simply the pathof the file we are importing
 import Main from "./Components/Main.js";
